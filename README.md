@@ -12,12 +12,12 @@ I am full-stack developer based in the Netherlands, excited about all things tec
 ## 🧰 Tech Stack
 
 - **Languages**: Python, JavaScript, Java, C++
-- **ML/AI**: PyTorch, scikit-learn, OpenAI API, HuggingFace
+- **ML/AI**: PyTorch, TensorFlow, scikit-learn, OpenAI API, HuggingFace, MLFlow, Weights & Biases
 - **DevOps**: Docker, Kubernetes, GitHub Actions, AWS
 - **Frontend**: React, Vue.js, Flask, Flutter
 
 ## 📬 Let's Connect
 
 - 📫 Email: raoulbrigola@gmail.com 
-- 📝 Blog: [FuTechBlog @ medium](https://medium.com/@futechblog)  
-- 💼 LinkedIn: [brigoraoul](www.linkedin.com/in/raoul-brigola)
+- 📝 Blog: [FuTechBlog](https://medium.com/@futechblog)  
+- 💼 LinkedIn: [Raoul Brigola](www.linkedin.com/in/raoul-brigola)
